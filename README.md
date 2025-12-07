@@ -1,6 +1,6 @@
 <h2> Hi there! I'm xuezhw <img src="https://raw.githubusercontent.com/xuezhw/xuezhw/main/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/xuezhw/xuezhw/blob/main/1.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="https://github.com/xuezhw/xuezhw/blob/main/willxue.gif?raw=true" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
