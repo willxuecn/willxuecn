@@ -35,7 +35,7 @@
 <br/>
 
 
-<img src="https://github.com/xuezhw/xuezhw/blob/main/5.gif" width="350" align='right'>
+<img src="https://github.com/xuezhw/xuezhw/blob/main/work.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willxuecn&show_icons=true)
 
