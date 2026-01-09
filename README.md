@@ -29,7 +29,7 @@
 
 
 <hr>
-
+<!--
 [![WillXue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=willxuecn&show_icons=true)](https://github.com/willxuecn)
 
 <br/>
@@ -41,6 +41,7 @@
 
 <br>
 <hr>
+-->
 <h3>💻 Skills</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=apple,astro,cloudflare,dart,deno,docker,git,github,go,java,js,md,mysql,netlify,nextjs,nginx,notion,kotlin,nodejs,figma,vue,zig&theme=light)](https://skillicons.dev)
